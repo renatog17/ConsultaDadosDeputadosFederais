@@ -1,0 +1,16 @@
+
+O cliente deseja uma tela onde seja possível consultar informações dos deputados federais.
+
+Requisito funcional 1:
+Listar todos os deputados federais
+Requisito funcional 2:
+Buscar por nome ou por id.
+
+Ferramentas que serão utilizadas:
+VisualStudio - edição de código HTML;
+https://dadosabertos.camara.leg.br/swagger/api.html - API para consulta dos dados dos DF;
+Postman - Para testar a API;
+GitHub - versionamento de código.
+
+Apoio Teórico: Curso Alura front End;
+Fichario para anotar tópicos recorrentes.
